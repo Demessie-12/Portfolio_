@@ -1,6 +1,6 @@
 import "./App.css";
 import styled, { ThemeProvider } from "styled-components";
-import { darkTheme, lightTheme } from "./utils/Themes";
+import { darkTheme } from "./utils/Themes";
 import Navbar from "./components/Navbar/Navbar";
 import Hero from "./components/HeroSection/Hero";
 import Skills from "./components/Skills/Skills";
