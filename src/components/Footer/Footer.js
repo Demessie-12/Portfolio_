@@ -93,7 +93,7 @@ function Footer() {
   return (
     <Container id="footer">
       <Wrapper>
-        <Logo>Rishav Chanda</Logo>
+        <Logo>Demessie Wondimu</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
@@ -108,7 +108,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2023 Rishav Chanda. All rights reserved.
+          &copy; 2023 Demessie Wondimu. All rights reserved.
         </Copyright>
 
       </Wrapper>
